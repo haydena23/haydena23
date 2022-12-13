@@ -12,8 +12,8 @@ I am a contracted cadet with the United States Air Force expecting a commission 
 ## 🧐 About
 
 - 📫 How to reach me: 
- * Email: haydena23@up.com
- * Discord: Smurfalo#3716
+    * Email: haydena23@up.com
+    * Discord: Smurfalo#3716
 - 🌱 Languages and Tools: 
 
     <div>
