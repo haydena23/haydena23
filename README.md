@@ -4,7 +4,7 @@ I'm [Tony Hayden](https://github.com/haydena23), a senior Computer Science major
 
 I am a contracted cadet with the United States Air Force expecting a commission come Spring 2024. I am hoping to persue a career in cyber operations. In the meantime, I am eager to grow my technical ability, and learn the ins and outs of cybersecurity as a whole. I am passionate with a strong drive to succeed, and am always excited, ready to take on the challenge of tomorrow, whether that be by myself or with a team around me.
 
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haydena23)](https://github.com/haydena23)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=haydena23)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=haydena23&show_icons=true&hide_border=true">
