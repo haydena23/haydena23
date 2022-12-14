@@ -20,7 +20,7 @@ I am a contracted cadet with the United States Air Force expecting a commission 
     * Sharpening Python skills
 - 📫 How to reach me: 
     * Email: haydena23@up.edu
-    * LinkedIn: [My Profile](https://www.linkedin.com/in/tonyrhayden/)
+    * LinkedIn: [https://www.linkedin.com/in/tonyrhayden](https://www.linkedin.com/in/tonyrhayden/)
     * Discord: Smurfalo#3716
 - 🌱 Languages and Tools: 
 
