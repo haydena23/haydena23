@@ -11,8 +11,16 @@ I am a contracted cadet with the United States Air Force expecting a commission 
 
 ## 🧐 About
 
+- 📖 What I am currently learning and practicing:
+    * Reverse Engineering skills
+      * IDA
+      * Ghidra
+      * GDB
+      * dotPeek   
+    * Sharpening Python skills
 - 📫 How to reach me: 
     * Email: haydena23@up.com
+    * LinkedIn: [My Profile](https://www.linkedin.com/in/tonyrhayden/)
     * Discord: Smurfalo#3716
 - 🌱 Languages and Tools: 
 
